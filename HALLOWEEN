@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Untitled Document</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #000000;
+}
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+//-->
+</script>
+</head>
+
+<body>
+<div id="Layer1" style="position:absolute; left:220px; top:11px; width:875px; height:629px; z-index:1"><img src="../AppData/Roaming/Microsoft/Windows/Network%20Shortcuts/halloween%20gif.gif" width="770" height="532"></div>
+<div id="Layer2" style="position:absolute; left:329px; top:449px; width:678px; height:142px; z-index:2">
+  <embed src="../Music/Halloween%20Theme%20-%20Main%20Title.mp3" width="620" height="119"></embed>
+</div>
+<div id="Layer3" style="position:absolute; left:950px; top:322px; width:310px; height:109px; z-index:3">
+  <embed src="../Music/This%20Is%20Halloween.mp3" width="298" height="91"></embed>
+</div>
+<div id="Layer4" style="position:absolute; left:44px; top:276px; width:198px; height:194px; z-index:4">
+  <embed src="Spooky%20Scary%20Skeletons%20Original%20Song%20Video.mp4" width="228" height="212"></embed>
+</div>
+<div id="Layer5" style="position:absolute; left:1007px; top:136px; width:252px; height:133px; z-index:5"><img src="../Desktop/Proyecto%20flash/Halloween.png" width="232" height="126"></div>
+<div id="Layer6" style="position:absolute; left:161px; top:-20px; width:291px; height:143px; z-index:6"><img src="../AppData/Roaming/Microsoft/Windows/Network%20Shortcuts/happy%20halloween.gif" width="357" height="182"></div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>
